@@ -1,4 +1,4 @@
-## Code for the blogpost http://localhost:8080/posts/intro-to-js-module-system.md
+### [Blog Post Article](https://tech.chitamoor.com/posts/intro-to-js-module-system.md)
 
 ### List of files
 - **cjsCircleUtils.js** - CommonJS module that contains the circle utlity methods 
